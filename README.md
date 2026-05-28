@@ -1,3 +1,22 @@
+# 📊 Superstore Sales Dashboard
+
+## 🚀 Project Overview
+This project analyzes retail sales data using SQL and Power BI to generate business insights and interactive dashboards.
+
+## 📌 Key Insights
+- Total Sales: 2.26M
+- Technology is the top-performing category
+- West region generates highest revenue
+- Sales show growth trend over years
+
+## 🛠️ Tools Used
+- MySQL
+- SQL
+- Power BI
+
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
+
 # 📊 Superstore Sales Analysis (SQL)
 
 ## 🔹 1. Total Sales (Overall Business)
